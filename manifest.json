@@ -1,0 +1,25 @@
+{
+    "fileLocations": [
+      {
+        "URIs": [
+          "s3://spotify-dump/spotify_playlists_pop.csv"
+        ]
+      },
+      {
+        "URIs": [
+          "s3://spotify-dump/spotify_playlists_hiphop.csv"
+        ]
+      },
+      {
+        "URIs": [
+          "s3://spotify-dump/spotify_playlists_rock.csv"
+        ]
+      },
+      {
+        "URIs": [
+          "s3://spotify-dump/spotify_playlists_jazz.csv"
+        ]
+      }
+    ]
+  }
+  
