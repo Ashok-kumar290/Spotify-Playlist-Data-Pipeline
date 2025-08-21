@@ -72,6 +72,7 @@ This data pipeline automates the process of collecting Spotify playlist data, st
 1. Sign in to AWS QuickSight.
 2. Create a new data source and connect it to your S3 bucket.
 3. Use the CSV files uploaded to S3 for your analysis and visualization.
+4. ![Dashboard](Dashboard.jpg)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
