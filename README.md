@@ -2,6 +2,9 @@
 
 This project fetches featured playlists from Spotify, saves the data to HDFS, and uploads CSV files to AWS S3. This pipeline facilitates further data analysis and visualization using AWS QuickSight.
 
+## Architecture Diagram
+![Pipeline Architecture](Project_architecture_diagram.jpg)
+
 ## Table of Contents
 
 - [Overview](#overview)
